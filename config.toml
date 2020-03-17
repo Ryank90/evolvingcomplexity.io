@@ -1,0 +1,22 @@
+baseURL = "http://evolvingcomplexity.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "noteworthy"
+
+paginate = 4
+summaryLength = 10
+
+[params]
+    description = "Something in here..."
+
+[[menu.main]]
+    identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 1
+
+[[menu.main]]
+    identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
+	weight = 2
