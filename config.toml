@@ -1,6 +1,6 @@
-baseURL = "https://evolvingcomplexity.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.evolvingcomplexity.io/"
+languageCode = "en-gb"
+title = "Evolving Complexity"
 theme = "noteworthy"
 
 paginate = 4
@@ -16,7 +16,13 @@ summaryLength = 10
 	weight = 1
 
 [[menu.main]]
+    identifier = "talks"
+	name = "Talks"
+	url = "/talks/"
+	weight = 2
+
+[[menu.main]]
     identifier = "contact"
 	name = "Contact"
 	url = "/contact/"
-	weight = 2
+	weight = 3
