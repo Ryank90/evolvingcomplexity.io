@@ -3,11 +3,21 @@ languageCode = "en-gb"
 title = "Evolving Complexity"
 theme = "noteworthy"
 
-paginate = 4
+googleAnalytics = ""
+
+paginate = 5
 summaryLength = 10
 
+[taxonomies]
+  tag = "tags"
+
 [params]
-    description = "Something in here about the blog..."
+    description = "Hey 👋 I'm Ryan Kerry - I brain dump and blog here about technical leadership, engineering management and technology."
+
+	twitter = "https://twitter.com/RyanKerry1"
+	linkedin = "https://www.linkedin.com/in/ryank90"
+	github = "https://github.com/Ryank90"
+	stackoverflow = "https://stackoverflow.com/users/1556123/ryank"
 
 [[menu.main]]
     identifier = "about"
@@ -26,3 +36,4 @@ summaryLength = 10
 	name = "Contact"
 	url = "/contact/"
 	weight = 3
+
