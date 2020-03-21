@@ -1,5 +1,5 @@
 on: [push]
-name: Publish blog
+name: Deploy Evolving Complexity Blog
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -7,6 +7,6 @@ jobs:
     - uses: actions/checkout@v1
       with:
         submodules: true
-    - uses: pulimento/github-action-hugo-deploy-to-firebase@master
+    - uses: ryank90/action-hugo-firebase-deploy@master
       with:
         firebase-token: ${{ secrets.firebase_token }}
