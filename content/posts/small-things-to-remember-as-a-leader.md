@@ -11,6 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a fringill
 * 1:1s
 * Something in here...
 * Listen
+* Stand-up
+* Providing flexibility
 
 
 Finally...
