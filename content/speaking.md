@@ -1,7 +1,7 @@
 ---
 title: "Speaking"
 date: 2020-03-18T13:12:37Z
-draft: true
+draft: false
 ---
 
 I've been known to stand in front of large groups of people, pacing back and forth, waving my hands, talking and carrying out a slight lunge from time to time.
