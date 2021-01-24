@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolving Complexity</title>
+    <link>https://www.evolvingcomplexity.io/</link>
+    <description>Recent content on Evolving Complexity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Mar 2020 13:12:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.evolvingcomplexity.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://www.evolvingcomplexity.io/speaking/</link>
+      <pubDate>Wed, 18 Mar 2020 13:12:37 +0000</pubDate>
+      
+      <guid>https://www.evolvingcomplexity.io/speaking/</guid>
+      <description>I&amp;rsquo;ve been known to stand in front of large groups of people, pace back and forth, be animated with my hands, talking about subjects I&amp;rsquo;m passionate about from time to time.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.evolvingcomplexity.io/contact/</link>
+      <pubDate>Tue, 17 Mar 2020 14:09:38 +0000</pubDate>
+      
+      <guid>https://www.evolvingcomplexity.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.evolvingcomplexity.io/about/</link>
+      <pubDate>Tue, 17 Mar 2020 14:09:20 +0000</pubDate>
+      
+      <guid>https://www.evolvingcomplexity.io/about/</guid>
+      <description>Welcome.</description>
+    </item>
+    
+  </channel>
+</rss>
