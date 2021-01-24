@@ -38,5 +38,14 @@
       <description>Welcome.</description>
     </item>
     
+    <item>
+      <title>Farewell Lush, Hello Unity</title>
+      <link>https://www.evolvingcomplexity.io/posts/farewell-lush-hello-unity/</link>
+      <pubDate>Wed, 10 Oct 2018 12:06:36 +0000</pubDate>
+      
+      <guid>https://www.evolvingcomplexity.io/posts/farewell-lush-hello-unity/</guid>
+      <description>Today marks the end of my four and a half year tenure at Lush.</description>
+    </item>
+    
   </channel>
 </rss>
